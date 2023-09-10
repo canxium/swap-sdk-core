@@ -158,13 +158,13 @@ const CANXIUM_ADDRESSES: ChainAddresses = {
 
 // Base Goerli v3 addresses
 const CANXIUM_CERIUM_ADDRESSES: ChainAddresses = {
-  v3CoreFactoryAddress: '0x738D111c949E8Ea3654a0D49766E0dc550Dd2f5b',
-  multicallAddress: '0xF120C7eF0eDC34fA47D2eAfc7E9E5b1438aB1c0B',
-  quoterAddress: '0xB99b3718894B3410C6d5F91D8B757B1383610288',
-  v3MigratorAddress: '0xF91fdA54476D47da2A9db8f416892A72BCfE32cF',
-  nonfungiblePositionManagerAddress: '0xcCc43587dC9E36f659824b9627920D9Ad84C2c1f',
-  tickLensAddress: '0x45c1BBdF803fa073fb121c8BB555fD5D3127A97a',
-  swapRouter02Address: '0x49b06f41926D394153653bea8C581E4C305663Cc'
+  v3CoreFactoryAddress: '0xed97a1C50F4863D4040F2684300D950d91912B39',
+  multicallAddress: '0xE6cA36971Fca5F2952eafF6Ad7720D8ccE8274Fb',
+  quoterAddress: '0xcdBb6594d78D9cbfC6ac948141B54c00CCa0707d',
+  v3MigratorAddress: '0x2e324ccf0Cc9Dc10D84212BFe9C3C057aE2d62f3',
+  nonfungiblePositionManagerAddress: '0x3816356508cEC1714b66F0FFBea27E0407961121',
+  tickLensAddress: '0x2Cc078E6BE4109B2D6E653b2327efaA2C349a2E0',
+  swapRouter02Address: '0x72a422b5BDeBACB0af9f2FA00DaCBdA5de62c5a8'
 }
 
 export const CHAIN_TO_ADDRESSES_MAP: Record<SupportedChainsType, ChainAddresses> = {
