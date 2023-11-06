@@ -147,13 +147,13 @@ const BASE_GOERLI_ADDRESSES: ChainAddresses = {
 
 // Base Goerli v3 addresses
 const CANXIUM_ADDRESSES: ChainAddresses = {
-  v3CoreFactoryAddress: '0x9323c1d6D800ed51Bd7C6B216cfBec678B7d0BC2',
-  multicallAddress: '0xB206027a9E0E13F05eBEFa5D2402Bab3eA716439',
-  quoterAddress: '0xedf539058e28E5937dAef3f69cEd0b25fbE66Ae9',
-  v3MigratorAddress: '0x3efe5d02a04b7351D671Db7008ec6eBA9AD9e3aE',
-  nonfungiblePositionManagerAddress: '0x3c61369ef0D1D2AFa70d8feC2F31C5D6Ce134F30',
-  tickLensAddress: '0x1acB873Ee909D0c98adB18e4474943249F931b92',
-  swapRouter02Address: '0x8357227D4eDc78991Db6FDB9bD6ADE250536dE1d'
+  v3CoreFactoryAddress: '0xbccB72C341ff1BdFDeAEb5Ba1EE0aCF9cA61E83C',
+  multicallAddress: '0xfE24d5cE7aAB9B9Cd475D886cb9E41aC0EaF3186',
+  quoterAddress: '0xBbF2FFF369A563B6fAF61596d6234f71c17EA022',
+  v3MigratorAddress: '0x987B1d44fEB41AD507534E85bc7539bbE85d1190',
+  nonfungiblePositionManagerAddress: '0xC395e243c85195690583dFD5Eb4ed2C3AD14971F',
+  tickLensAddress: '0x776B9805B14c9c33759E9308633df908adD9b25a',
+  swapRouter02Address: '0x52B44e82bB82a3686c458FfA49710f6F53C91c3B'
 }
 
 // Base Goerli v3 addresses
